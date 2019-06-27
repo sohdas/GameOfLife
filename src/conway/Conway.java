@@ -7,7 +7,7 @@ package conway;
 
 /**
  *
- * @author Somnath
+ * @author Soham
  */
 public class Conway {
 
